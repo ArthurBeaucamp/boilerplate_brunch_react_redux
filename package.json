@@ -2,7 +2,7 @@
   "name": "boilerplate_brunch_react_redux",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "",
+  "repository": "https://github.com/ArthurBeaucamp/boilerplate_brunch_react_redux.git",
   "author": "Arthur Beaucamp <arthur_beaucamp@laposte.net>",
   "license": "MIT",
   "scripts": {
